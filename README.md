@@ -1,4 +1,5 @@
 # Ordinary Least Squares and Total Least Squares projection concept image
+![Concept img](img/concept.png) 
 This show how these two methods project data points onto regression line.
 OLS project dependent variable on the line s.t. the residula between itself and a fitted value is parallel to axis of dependent variable. On the other hand, that of TLS is just orthogonal toward regression line since it accounts for observational error in dependent values as well.
 
